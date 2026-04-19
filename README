@@ -1,0 +1,38 @@
+Omege System
+=============
+
+Welcome to Omege System! This is target to i386 arch of simple operating system.
+
+Quick Links
+============
+* Website: https://www.omegeuos.top/
+* License: https://github.com/deeplearning-corporation/OmegeSystem/blob/main/LICENSE/
+* Download: https://github.com/deeplearning-corporation/OmegeSystem/releases/
+
+Credits List
+============
+Omege System Credits List:
+- deeplearning-corporation
+- Pointer
+
+Thanks that peoples bring us Omege System!
+
+Compile
+========
+If you needs compile Omege System operating system you needs install:
+NASM Assembler
+MinGW32-Make
+Windows OS (Windows 10 and above)
+
+run command:
+mingw32-make all
+
+Then it can be compiled.
+
+Run
+===
+You can Download We'are operating system of image(OmegeSystem.img) file then can at Virtual machine Platform run.
+
+Thank You
+==========
+Thank You Read This README file!
